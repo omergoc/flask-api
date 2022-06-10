@@ -74,6 +74,6 @@ class Functions():
 
 if __name__ == "__main__":
     App = Functions()
-    out = App.askSearch("selimcan yıluğur")
+    out = App.askSearch("ARANAN KELIME")
     print(out)
 
